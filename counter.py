@@ -1,6 +1,5 @@
 import tkinter as tk
 
-
 class CounterApp:
     def __init__(self, root):
         self.root = root
